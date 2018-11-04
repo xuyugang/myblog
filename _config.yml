@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 胡伟煌 
+title: 肥哟
 subtitle: 个人博客
-author: 胡伟煌
+author: 肥哟
 language:
 timezone:
 
@@ -21,7 +21,7 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: 胡伟煌 | Blog
+SEOTitle: 肥哟 | Blog
 email: huweihuang@foxmail.com
 description: ""
 keyword: ""
@@ -89,15 +89,15 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 ## Friends
 friends: [
     {
-        title: "CSDN Blog 胡伟煌",
+        title: "CSDN Blog 肥哟",
         href: "http://blog.csdn.net/huwh_"
     },
     {
-        title: "DockOne 胡伟煌",
-        href: "http://dockone.io/people/胡伟煌"
+        title: "DockOne 肥哟",
+        href: "http://dockone.io/people/肥哟"
     },
     {
-        title: "阿里云栖社区 胡伟煌",
+        title: "阿里云栖社区 肥哟",
         href: "https://yq.aliyun.com/u/huweihuang"
     }
 ]
@@ -216,6 +216,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/huweihuang/hexo-theme-huweihuang
-  branch: gh-pages
+  repository: git@github.com:xuyugang/xuyugang.github.io.git
+  branch: master
   message: Update CNAME
